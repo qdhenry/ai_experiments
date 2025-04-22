@@ -22,4 +22,3 @@ The project is organized into directories, each representing a distinct AI perso
 
 These files can be used as system messages, initial instructions, or configuration inputs when working with large language models (LLMs) or AI systems to guide their behavior and responses according to the defined personas.
 
-*(Further details on specific usage or integration methods could be added here.)*
